@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kekeh/mydatepicker.git"
+    "url": "git+https://github.com/lucassant0s/mydatepicker.git"
   },
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.js --progress",
